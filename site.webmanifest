@@ -1,0 +1,8 @@
+{
+  "name": "Aryncare Management Services",
+  "short_name": "Aryncare",
+  "icons": [{ "src": "/images/favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "theme_color": "#0F3D91",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}
